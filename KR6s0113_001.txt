@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:45.690241
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 入唐新求聖教目錄
 #+PROPERTY: CBETA_ID T55n2167
 #+PROPERTY: ID KR6s0113
